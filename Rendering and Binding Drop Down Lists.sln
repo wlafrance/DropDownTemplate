@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rendering and Binding Drop Down Lists", "Rendering and Binding Drop Down Lists\Rendering and Binding Drop Down Lists.csproj", "{2A5F2A3B-5208-4417-8996-30AD26C9D8CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D63BE15D-66E5-4D5F-9423-4AD4659FB1E9}"
+	ProjectSection(SolutionItems) = preProject
+		.git\config = .git\config
+		.git\description = .git\description
+		.git\HEAD = .git\HEAD
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A5F2A3B-5208-4417-8996-30AD26C9D8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5F2A3B-5208-4417-8996-30AD26C9D8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5F2A3B-5208-4417-8996-30AD26C9D8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5F2A3B-5208-4417-8996-30AD26C9D8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

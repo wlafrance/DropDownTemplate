@@ -1,0 +1,5 @@
+C:\Users\lafrance.warren\Documents\Visual Studio 2013\Projects\DropdownList\Rendering and Binding Drop Down Lists\bin\Rendering and Binding Drop Down Lists.dll
+C:\Users\lafrance.warren\Documents\Visual Studio 2013\Projects\DropdownList\Rendering and Binding Drop Down Lists\bin\Rendering and Binding Drop Down Lists.pdb
+C:\Users\lafrance.warren\Documents\Visual Studio 2013\Projects\DropdownList\Rendering and Binding Drop Down Lists\obj\Debug\Rendering and Binding Drop Down Lists.csprojResolveAssemblyReference.cache
+C:\Users\lafrance.warren\Documents\Visual Studio 2013\Projects\DropdownList\Rendering and Binding Drop Down Lists\obj\Debug\Rendering and Binding Drop Down Lists.dll
+C:\Users\lafrance.warren\Documents\Visual Studio 2013\Projects\DropdownList\Rendering and Binding Drop Down Lists\obj\Debug\Rendering and Binding Drop Down Lists.pdb
